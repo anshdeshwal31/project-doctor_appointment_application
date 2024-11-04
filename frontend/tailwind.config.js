@@ -8,7 +8,10 @@ export default {
     extend: {
       colors:{
         'blue': 'rgb(95 ,111 ,255)'
-      }
+      },
+      // scale:{
+      //   "80":"0.8"
+      // }
     },
   },
   plugins: [],
