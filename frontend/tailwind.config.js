@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       colors:{
-        'blue': 'rgb(95 ,111 ,255)'
+        'blue': 'rgb(95 ,111 ,255)',
+        "gray": "rgb(234 239 255)"
       },
       // scale:{
       //   "80":"0.8"
